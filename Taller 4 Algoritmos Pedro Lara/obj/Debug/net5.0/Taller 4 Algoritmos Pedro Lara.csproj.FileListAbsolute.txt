@@ -1,0 +1,16 @@
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.exe
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.deps.json
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.runtimeconfig.json
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.runtimeconfig.dev.json
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.dll
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\ref\Taller 4 Algoritmos Pedro Lara.dll
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\bin\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.pdb
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.csproj.AssemblyReference.cache
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.AssemblyInfoInputs.cache
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.AssemblyInfo.cs
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.dll
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\ref\Taller 4 Algoritmos Pedro Lara.dll
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.pdb
+C:\Users\Pedro Lara\source\repos\Taller 4 Algoritmos Pedro Lara\Taller 4 Algoritmos Pedro Lara\obj\Debug\net5.0\Taller 4 Algoritmos Pedro Lara.genruntimeconfig.cache
